@@ -1,0 +1,6 @@
+css/style.css:scss/style.scss
+css/style.css:scss/_layout.scss
+css/style.css:scss/base/_base.scss
+css/style.css:scss/base/_colors.scss
+css/style.css:scss/base/_mixins.scss
+css/style.css:scss/base/_reset.scss
